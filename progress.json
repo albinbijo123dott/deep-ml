@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T05:14:58.606Z",
+  "generated_at": "2026-10-11T12:18:37.859Z",
   "items": {
     "problem:121": {
       "kind": "problem",
@@ -57,6 +57,19 @@
       "path": "math/0008-vector-norms-and-linear-independence",
       "first_solved_at": "2026-10-11T04:58:26.841Z",
       "last_pushed_at": "2026-10-11T05:14:13.814Z"
+    },
+    "problem:83": {
+      "kind": "problem",
+      "id": "83",
+      "title": "Dot Product Calculator",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/83",
+      "path": "problems/0083-dot-product-calculator",
+      "first_solved_at": "2026-10-11T12:18:37.218Z",
+      "last_pushed_at": "2026-10-11T12:18:37.218Z",
+      "language": "python",
+      "lines": 4
     }
   }
 }
